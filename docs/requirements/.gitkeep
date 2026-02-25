@@ -1,0 +1,17 @@
+# Requerimientos del Proyecto Bankify
+
+## 1. Requerimiento Seleccionado
+**RF-01: Realizar Transferencia entre Cuentas Propias**
+El usuario podrá seleccionar una cuenta de origen, una de destino e ingresar un monto para transferir dinero de forma inmediata.
+
+## 2. Mockups (Diseño Visual)
+A continuación se presenta el flujo de pantallas diseñado para este requerimiento:
+
+### Pantalla de Inicio
+![Inicio](images/pantallainicio.png)
+
+### Formulario de Transferencia
+![Formulario](images/envio.png)
+
+### Confirmación de Éxito
+![Exito](images/exitoso.png)
